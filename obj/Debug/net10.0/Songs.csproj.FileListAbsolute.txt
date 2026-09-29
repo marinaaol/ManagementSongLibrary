@@ -1,0 +1,14 @@
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/bin/Debug/net10.0/Songs
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/bin/Debug/net10.0/Songs.deps.json
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/bin/Debug/net10.0/Songs.runtimeconfig.json
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/bin/Debug/net10.0/Songs.dll
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/bin/Debug/net10.0/Songs.pdb
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/obj/Debug/net10.0/Songs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/obj/Debug/net10.0/Songs.AssemblyInfoInputs.cache
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/obj/Debug/net10.0/Songs.AssemblyInfo.cs
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/obj/Debug/net10.0/Songs.csproj.CoreCompileInputs.cache
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/obj/Debug/net10.0/Songs.dll
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/obj/Debug/net10.0/refint/Songs.dll
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/obj/Debug/net10.0/Songs.pdb
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/obj/Debug/net10.0/Songs.genruntimeconfig.cache
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00610 - SQL nas apps/Songs/obj/Debug/net10.0/ref/Songs.dll
